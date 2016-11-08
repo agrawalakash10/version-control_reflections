@@ -1,0 +1,35 @@
+version control Lesson 1 reflections:
+
+1. version control helps to find the changes made in the files while version change. this helps to find the bug created
+
+2. In Mac, there is an inbuilt tool to track the change in different versions. diff -u {old file} {new file with extensions}
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+the typo was identified very easily
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+the changes that are made in the file can be monitored, and any unintentional change can be tracked
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+-> pro: no unnecessary verisons. easy for debugging
+	con: dependency on the user. might make to large commits that may make is difficult the debugging process
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+-> git is specifically designed for coding purpose. in coding, usaually more than 1 file are interconnected. thus, multiple file saving in one commit comes handy
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
